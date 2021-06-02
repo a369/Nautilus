@@ -1,0 +1,22 @@
+{
+  "name": "atk_nautilus",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A simple syntax for querying objects",
+  "main": "src/Nautilus.js",
+  "scripts": {
+    "test": "mocha src/Nautilus.test.js"
+  },
+  "keywords": [
+    "object",
+    "query",
+    "list comprehension"
+  ],
+  "author": "atk",
+  "repository": "https://github.com/a369/Nautilus",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
